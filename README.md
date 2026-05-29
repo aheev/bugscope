@@ -1,5 +1,9 @@
 # Bugscope Graph Visualizer
 
+<p align="center">
+  <img src="assets/img/bugscope.png" alt="Bugscope graph visualizer screenshot" width="760">
+</p>
+
 An interactive graph visualization tool for ladybugdb. Explore relationships between bugs, files, and other entities in your databases through an intuitive visual interface.
 
 ## Features
